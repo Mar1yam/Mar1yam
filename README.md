@@ -42,6 +42,6 @@
 
 ### GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mar1yam&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
